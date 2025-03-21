@@ -26,11 +26,12 @@ This project is a simple QR code generator built using Node.js. It prompts the u
 
 ## Usage
 
-1. Run the script using the following command:
+1. Make sure to extract the node_modules folder first 
+2. Run the script using the following command:
     - node index.js
-2. Enter a URL when prompted.
-3. The generated QR code will be saved as qr.png in the project directory.
-4. The entered URL will also be saved in URL.txt.
+3. Enter a URL when prompted.
+4. The generated QR code will be saved as qr.png in the project directory.
+5. The entered URL will also be saved in URL.txt.
 
 ## Dependencies
 
